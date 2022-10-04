@@ -2,6 +2,16 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Fuente del Navbar */
+
+.marca {
+  font-family: 'Roboto', sans-serif;
+}
+
+.margen__nosotros{
+  height: 25px;
+}
+
 /* Hero Section */
 
 #Hero-Section {
